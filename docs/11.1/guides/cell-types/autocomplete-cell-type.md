@@ -128,7 +128,6 @@ const hot = new Handsontable(container, {
     ['Volvo', 2020, 'white', 'gray']
   ],
   colHeaders: ['Car', 'Year', 'Chassis color', 'Bumper color'],
-  licenseKey: 'non-commercial-and-evaluation',
   columns: [
     {
       type: 'autocomplete',
